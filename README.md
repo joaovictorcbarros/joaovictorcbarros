@@ -2,7 +2,7 @@
 
 - 🎓 Estudante na Uninter
 - 👀 Curto muito a parte de CiberSegurança
-- 📚 Atualmente estudando .html, .css. js e .sql
+- 📚 Atualmente estudando .html, .css, .js e .sql
 - Nas horas vagas 🎮 e 🎻
 
 <div style="display: inline_block"><br>
