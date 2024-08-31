@@ -1,4 +1,4 @@
-## Olá👋🏼! Eu sou o João Victor Costa!👋🏼
+## Olá👋🏼! Eu sou o João Victor Costa!
 
 - 🎓 Estudante na Uninter
 - 👀 Curto muito a parte de CiberSegurança
