@@ -1,11 +1,5 @@
 ## Olá👋🏼! Eu sou o João Victor Costa!👋🏼
 
-<div align="center">
-  <a href="https://github.com/joaovictorcbarros">
-  <img height="170em"  width="45%" src="https://github-readme-stats.vercel.app/api?username=joaovictorcbarros&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="170em"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcbarros&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-</div>
-
 - 🎓 Estudante na Uninter
 - 👀 Curto muito a parte de CiberSegurança
 - 📚 Atualmente estudando .html, .css, .js e .sql
