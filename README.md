@@ -2,10 +2,7 @@
 
 - 🎓 Estudante na Uninter
 - 👀 Curto muito a parte de CiberSegurança
-- 📚 Atualmente estudando &nbsp; 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="18" height="18" align="absmiddle"> Flutter/.dart
-</div> 
+- 📚 Atualmente estudando &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="18" height="18" align="absmiddle"> Flutter/.dart
 - Nas horas vagas 🎮 e 🎻
 
 ## 💻 Skills
@@ -22,4 +19,5 @@
 <div> 
   <a href="https://www.instagram.com/joov1ct0r_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:joaovictorcostadev@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)"(mailto:joaovictorcostadev@proton.me target="_blank"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-8B89CC?style=for-the-badge&logo=html5&logoColor=white target="_blank"></a>
 </div>
