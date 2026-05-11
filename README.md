@@ -5,9 +5,9 @@
 - 📚 Atualmente estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="20" align="absmiddle">&nbsp;**Flutter/.dart**
 - Nas horas vagas 🎮 e 🎻
 
- ## 💻 Skills
+## 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=light">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap">
 
  ## Contatos
  
