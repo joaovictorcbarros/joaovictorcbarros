@@ -6,7 +6,6 @@
 - Nas horas vagas 🎮 e 🎻
 
 ## 💻 Skills
-
 <div>
   <img alt="HTML5" title="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" title="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +16,6 @@
 </div>
 
  ## Contatos
- 
 <div> 
   <a href="https://www.instagram.com/joov1ct0r_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:joaovictorcostadev@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)"(mailto:joaovictorcostadev@proton.me target="_blank"></a>
