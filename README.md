@@ -2,7 +2,7 @@
 
 - 🎓 Estudante na Uninter
 - 👀 Curto muito a parte de CiberSegurança
-- 📚 Atualmente estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20" align="right"> **Flutter/.dart**
+- 📚 Atualmente estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20" align="middle"> **Flutter/.dart**
 - Nas horas vagas 🎮 e 🎻
 
 ## 💻 Skills
