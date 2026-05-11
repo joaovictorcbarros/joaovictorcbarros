@@ -1,3 +1,8 @@
+style{
+  margin: 0;
+  padding: 0;
+}
+
 ## Olá👋🏼! Eu sou o João Victor Costa!
 
 - 🎓 Estudante na Uninter
